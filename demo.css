@@ -15,8 +15,8 @@
 .clearfix:after { clear: both; }
 
 body {
-	background: #E31414;
-	color: #2E3444;
+	background: #222 url(https://i58.servimg.com/u/f58/16/98/17/92/img_1411.png);;
+	color: #E31414;
 	font-size: 100%;
 	line-height: 1.25;
 	font-family: 'Lato', sans-serif;
@@ -137,7 +137,6 @@ section {
 	padding: 25px;
 	color: #2E3444;
 }
-
 .related a:hover {
 	border-color: #FF2A48;
 	color: #FF2A48;
@@ -161,9 +160,7 @@ section {
 }
 
 @media screen and (max-width: 25em) {
-
 	.codrops-icon span {
 		display: none;
 	}
 
-}
